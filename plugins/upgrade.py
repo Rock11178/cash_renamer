@@ -26,8 +26,8 @@ async def upgrade(bot,update):
         Payment To Admin @Sharathitsisme
         
     Premium Features
-    💲 Rename Upto 4GB Files
-    💲 Renaming Speed Averages - 10mbbs """
+    💲 Rename Upto 4GB Files 🗂
+    💲 Renaming Speed Averages - 10-MBBS To 15-MBBS 🚀"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Sharathitsisme")], 
         			[InlineKeyboardButton("updates",url = "https://t.me/Tamilan_Botsz"),
