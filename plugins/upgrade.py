@@ -25,9 +25,10 @@ async def upgrade(bot,update):
 	After Buy Code Send The Code To Me
         Payment To Admin @Sharathitsisme
         
-    Premium Features
+        **Premium Features**
     💲 Rename Upto 4GB Files 🗂
-    💲 Renaming Speed Averages - 10-MBBS To 15-MBBS 🚀"""
+    💲 Renaming Speed 10-MBBS To 15-MBBS 🚀
+    💲 24 / 7 No Down"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Sharathitsisme")], 
         			[InlineKeyboardButton("updates",url = "https://t.me/Tamilan_Botsz"),
@@ -59,9 +60,10 @@ async def upgradecm(bot,message):
 	After Buy Code Send The Code To Me
         Payment To Admin @Sharathitsisme
         
-    Premium Features
-    💲 Rename Upto 4GB Files
-    💲 Renaming Speed Averages - 10mbbs """
+        **Premium Features**
+    💲 Rename Upto 4GB Files 🗂
+    💲 Renaming Speed 10-MBBS To 15-MBBS 🚀
+    💲 24 / 7 No Down"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mRiDerDM")], 
         			[InlineKeyboardButton("Updates",url = "https://t.me/Tamilan_BotsZ "),
